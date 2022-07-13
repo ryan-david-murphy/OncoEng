@@ -1,0 +1,2 @@
+# OncoEng
+OncoEng centres on a transformational and systems engineering approach Metastatic Bone Disease (MBD) in the spine using a framework combining advanced image-based modelling and cutting edge manufacturing to enable an optimised, metamaterial-based minimally invasive implant (MII). Long-term patient impact will be enabled by partnership with the industry and healthcare sectors, as well as other globally leading academic units.
